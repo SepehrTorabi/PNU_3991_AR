@@ -2,10 +2,10 @@
 
 سپهر ترابی
 
-آموزش گیت Patchwork
-
+Patchwork
+ 
 رزومه
 
 انگیزه نامه
 
-مدرک js از سولولرن
+Javascript Certification
