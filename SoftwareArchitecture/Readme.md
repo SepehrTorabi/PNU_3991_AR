@@ -4,6 +4,6 @@
 
 [SOP]()
 
-[Certificates](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/cert-1024-20692538.jpg)
+[Certificates](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/Cesrtificates.png)
 
 [GitHub](https://github.com/SepehrTorabi)
