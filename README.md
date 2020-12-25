@@ -1,8 +1,11 @@
 # PNU_3991_AR
 
-سپهر ترابی
+<div dir="rtl">
 
-دروس
+# سپهر ترابی
+---
+
+## دروس:
 
 [مهندسی نرم افزار پیشرفته](https://github.com/SepehrTorabi/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
 
