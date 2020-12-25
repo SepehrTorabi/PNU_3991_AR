@@ -6,7 +6,7 @@
 - [PNU_3991_AR](https://github.com/SepehrTorabi/PNU_3991_AR)
 - [Resume](https://SepehrTorabi.github.io/)
 - [SOP](https://SepehrTorabi.github.io/SOP/)
-- [Certificates](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/Cesrtificates.png)
+- [Certificates](https://sepehrtorabi.github.io/certificates/)
 - [GitHub](https://github.com/SepehrTorabi)
 
 ---
