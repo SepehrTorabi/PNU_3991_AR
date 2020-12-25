@@ -2,7 +2,7 @@
 
 [Resume](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/Resume.pdf)
 
-[SOP]()
+[SOP](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/SOP.pdf)
 
 [Certificates](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/Cesrtificates.png)
 
