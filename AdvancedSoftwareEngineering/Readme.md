@@ -10,7 +10,12 @@
 - [GitHub](https://github.com/SepehrTorabi)
 
 ---
+## همخوانی
 
+- [CollaborativeReading](https://crowdin.com/profile/SepehrTorabi)
+- [REP_CollaborativeReading](https://github.com/AliRazavi-edu/REP_CollaborativeReading)
+
+---
 ## گروه ها
 
 
