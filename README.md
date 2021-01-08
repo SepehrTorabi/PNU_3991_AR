@@ -19,6 +19,19 @@
 
 [معماری نرم افزار](https://github.com/SepehrTorabi/PNU_3991_AR/tree/main/SoftwareArchitecture)
 
+---
+## ارزیابی ها
+
+###  بخش عمومی
+
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/_General/ST_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/_General/ST_GeneralSection_CheckList_AR_3991.pdf)
+
+###  بخش دروس ارشد
+
+- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته]()
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار]()
+- [خلاصه ارزیابی درس_معماری نرم افزار]()
 
 --------------
 ## گروه های درسی
