@@ -25,12 +25,12 @@
 ###  بخش عمومی
 
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/_General/ST_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/_General/ST_GeneralSection_CheckList_AR_3991.pdf)
+- [ ارزیابی بخش عمومی](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/_General/ST_GeneralSection_CheckList_AR_3991.pdf)
 
 ###  بخش دروس ارشد
 
-- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته]()
-- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/SoftwareArchitecture/ST_SoftwareArchitecture_CheckList_AR_3991.pdf)
+- [ ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/ST_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+- [ ارزیابی درس_معماری نرم افزار](https://github.com/SepehrTorabi/PNU_3991_AR/blob/main/SoftwareArchitecture/ST_SoftwareArchitecture_CheckList_AR_3991.pdf)
 
 --------------
 ## گروه های درسی
