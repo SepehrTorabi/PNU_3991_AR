@@ -15,6 +15,7 @@
 
 ## دروس:
 
-[ متدولوژی ایجاد نرم‌افزار ]() 
+[ متدولوژی ایجاد نرم‌افزار ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies#TOC) 
+
 [سمینار]() 
 ---
